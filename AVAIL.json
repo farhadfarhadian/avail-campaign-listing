@@ -1,0 +1,8 @@
+{
+    "name": "zkfarhad",
+    "logo": "https://miro.medium.com/v2/resize:fit:828/format:webp/0*_DzSdXL8_TyIjXtG.png",
+    "rpc_url": "https://37.60.237.31:9944",
+    "explorer_url": "https://37.60.237.31:9944",
+    "metrics_endpoint": "https://37.60.237.31:9944",
+    "id": "b7109646-e079-438a-818d-18f3e1eb49da"
+  }
